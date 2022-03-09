@@ -1,0 +1,20 @@
+127.0.0.1/northwind/products/		http://localhost/phpmyadmin/index.php?route=/database/sql&db=northwind
+
+   Näytetään rivit 0–10 (11 tulos, Kysely kesti 0,0047 sekuntia.)
+
+
+SELECT ProductName, UnitPrice FROM northwind.products WHERE UnitPrice < (SELECT UnitPrice FROM northwind.products WHERE ProductName = 'Aniseed Syrup');
+
+
+ProductName	UnitPrice	
+Konbu	6.0000	
+Teatime Chocolate Biscuits	9.2000	
+Tunnbrd	9.0000	
+Guaran Fantstica	4.5000	
+Geitost	2.5000	
+Jack's New England Clam Chowder	9.6500	
+Rogede sild	9.5000	
+Zaanse koeken	9.5000	
+Filo Mix	7.0000	
+Tourtire	7.4500	
+Rhnbru Klosterbier	7.7500	

@@ -1,0 +1,12 @@
+127.0.0.1/northwind/customers/		http://localhost/phpmyadmin/index.php?route=/database/sql&db=northwind
+
+   Näytetään rivit 0– 2 (3 tulos, Kysely kesti 0,0032 sekuntia.)
+
+
+SELECT Companyname, ContactName FROM northwind.customers WHERE city = "Buenos Aires";
+
+
+Companyname	ContactName	
+Cactus Comidas para llevar	Patricio Simpson	
+Ocano Atlntico Ltda.	Yvonne Moncada	
+Rancho grande	Sergio Gutirrez	

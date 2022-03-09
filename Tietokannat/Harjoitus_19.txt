@@ -1,0 +1,13 @@
+127.0.0.1/northwind/employees/		http://localhost/phpmyadmin/index.php?route=/database/sql&db=northwind
+
+   Näytetään rivit 0– 3 (4 tulos, Kysely kesti 0,0019 sekuntia.)
+
+
+SELECT firstName, lastName FROM northwind.employees WHERE lastName REGEXP '[v-z]';
+
+
+firstName	lastName	
+Nancy	Davolio	
+Janet	Leverling	
+Michael	Suyama	
+Anne	Dodsworth	

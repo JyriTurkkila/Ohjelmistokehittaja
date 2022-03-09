@@ -1,0 +1,18 @@
+127.0.0.1/northwind/employees/		http://localhost/phpmyadmin/index.php?route=/database/sql&db=northwind
+
+   Näytetään rivit 0– 8 (9 tulos, Kysely kesti 0,0040 sekuntia.)
+
+
+SELECT lastName, firstName, CONCAT(SUBSTRING(lastName,1,5), + SUBSTRING(firstName,1,3)) AS username FROM northwind.employees;
+
+
+lastName	firstName	username	
+Davolio	Nancy	DavolNan	
+Fuller	Andrew	FulleAnd	
+Leverling	Janet	LeverJan	
+Peacock	Margaret	PeacoMar	
+Buchanan	Steven	BuchaSte	
+Suyama	Michael	SuyamMic	
+King	Robert	KingRob	
+Callahan	Laura	CallaLau	
+Dodsworth	Anne	DodswAnn	

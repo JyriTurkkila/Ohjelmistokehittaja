@@ -1,0 +1,10 @@
+127.0.0.1/northwind/employees/		http://localhost/phpmyadmin/index.php?route=/database/sql&db=northwind
+
+   Näytetään rivit 0– 0 (1 tulos, Kysely kesti 0,0016 sekuntia.)
+
+
+SELECT MIN(salary), MAX(salary) FROM northwind.employees;
+
+
+
+1744.21	3119.15	

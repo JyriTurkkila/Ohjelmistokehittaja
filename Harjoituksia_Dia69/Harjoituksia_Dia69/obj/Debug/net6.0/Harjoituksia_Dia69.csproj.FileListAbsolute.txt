@@ -1,0 +1,15 @@
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia69\Harjoituksia_Dia69\bin\Debug\net6.0\Harjoituksia_Dia69.exe
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia69\Harjoituksia_Dia69\bin\Debug\net6.0\Harjoituksia_Dia69.deps.json
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia69\Harjoituksia_Dia69\bin\Debug\net6.0\Harjoituksia_Dia69.runtimeconfig.json
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia69\Harjoituksia_Dia69\bin\Debug\net6.0\Harjoituksia_Dia69.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia69\Harjoituksia_Dia69\bin\Debug\net6.0\Harjoituksia_Dia69.pdb
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia69\Harjoituksia_Dia69\obj\Debug\net6.0\Harjoituksia_Dia69.csproj.AssemblyReference.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia69\Harjoituksia_Dia69\obj\Debug\net6.0\Harjoituksia_Dia69.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia69\Harjoituksia_Dia69\obj\Debug\net6.0\Harjoituksia_Dia69.AssemblyInfoInputs.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia69\Harjoituksia_Dia69\obj\Debug\net6.0\Harjoituksia_Dia69.AssemblyInfo.cs
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia69\Harjoituksia_Dia69\obj\Debug\net6.0\Harjoituksia_Dia69.csproj.CoreCompileInputs.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia69\Harjoituksia_Dia69\obj\Debug\net6.0\Harjoituksia_Dia69.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia69\Harjoituksia_Dia69\obj\Debug\net6.0\refint\Harjoituksia_Dia69.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia69\Harjoituksia_Dia69\obj\Debug\net6.0\Harjoituksia_Dia69.pdb
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia69\Harjoituksia_Dia69\obj\Debug\net6.0\Harjoituksia_Dia69.genruntimeconfig.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia69\Harjoituksia_Dia69\obj\Debug\net6.0\ref\Harjoituksia_Dia69.dll

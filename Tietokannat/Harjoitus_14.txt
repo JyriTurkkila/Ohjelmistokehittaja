@@ -1,0 +1,18 @@
+127.0.0.1/northwind/employees/		http://localhost/phpmyadmin/index.php?route=/database/sql&db=northwind
+
+   Näytetään rivit 0– 8 (9 tulos, Kysely kesti 0,0016 sekuntia.)
+
+
+SELECT UPPER(firstName), UPPER(lastName) FROM northwind.employees;
+
+
+UPPER(firstName)	UPPER(lastName)	
+NANCY	DAVOLIO	
+ANDREW	FULLER	
+JANET	LEVERLING	
+MARGARET	PEACOCK	
+STEVEN	BUCHANAN	
+MICHAEL	SUYAMA	
+ROBERT	KING	
+LAURA	CALLAHAN	
+ANNE	DODSWORTH	

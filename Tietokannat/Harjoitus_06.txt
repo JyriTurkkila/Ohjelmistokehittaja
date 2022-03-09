@@ -1,0 +1,10 @@
+127.0.0.1/northwind/employees/		http://localhost/phpmyadmin/index.php?route=/database/sql&db=northwind
+
+   Näytetään rivit 0– 0 (1 tulos, Kysely kesti 0,0012 sekuntia.)
+
+
+select round(sum(salary),2) from northwind.employees;
+
+
+
+20362.93	

@@ -1,0 +1,59 @@
+127.0.0.1/northwind/products/		http://localhost/phpmyadmin/index.php?route=/database/sql&db=northwind
+
+   Näytetään rivit 0–49 (50 tulos, Kysely kesti 0,0014 sekuntia.)
+
+
+SELECT ProductName, UnitsInStock FROM northwind.products LIMIT 50;
+
+
+ProductName	UnitsInStock	
+Chai	39	
+Chang	17	
+Aniseed Syrup	13	
+Chef Anton's Cajun Seasoning	53	
+Chef Anton's Gumbo Mix	0	
+Grandma's Boysenberry Spread	120	
+Uncle Bob's Organic Dried Pears	15	
+Northwoods Cranberry Sauce	6	
+Mishi Kobe Niku	29	
+Ikura	31	
+Queso Cabrales	22	
+Queso Manchego La Pastora	86	
+Konbu	24	
+Tofu	35	
+Genen Shouyu	39	
+Pavlova	29	
+Alice Mutton	0	
+Carnarvon Tigers	42	
+Teatime Chocolate Biscuits	25	
+Sir Rodney's Marmalade	40	
+Sir Rodney's Scones	3	
+Gustaf's Knckebrd	104	
+Tunnbrd	61	
+Guaran Fantstica	20	
+NuNuCa Nu-Nougat-Creme	76	
+Gumbr Gummibrchen	15	
+Schoggi Schokolade	49	
+Rssle Sauerkraut	26	
+Thringer Rostbratwurst	0	
+Nord-Ost Matjeshering	10	
+Gorgonzola Telino	0	
+Mascarpone Fabioli	9	
+Geitost	112	
+Sasquatch Ale	111	
+Steeleye Stout	20	
+Inlagd Sill	112	
+Gravad lax	11	
+Cte de Blaye	17	
+Chartreuse verte	69	
+Boston Crab Meat	123	
+Jack's New England Clam Chowder	85	
+Singaporean Hokkien Fried Mee	26	
+Ipoh Coffee	17	
+Gula Malacca	27	
+Rogede sild	5	
+Spegesild	95	
+Zaanse koeken	36	
+Chocolade	15	
+Maxilaku	10	
+Valkoinen suklaa	65	

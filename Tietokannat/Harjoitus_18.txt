@@ -1,0 +1,18 @@
+127.0.0.1/northwind/employees/		http://localhost/phpmyadmin/index.php?route=/database/sql&db=northwind
+
+   Näytetään rivit 0– 8 (9 tulos, Kysely kesti 0,0017 sekuntia.)
+
+
+SELECT firstName, lastName, length(firstName) + length(lastName) AS pituus FROM northwind.employees;
+
+
+firstName	lastName	pituus	
+Nancy	Davolio	12	
+Andrew	Fuller	12	
+Janet	Leverling	14	
+Margaret	Peacock	15	
+Steven	Buchanan	14	
+Michael	Suyama	13	
+Robert	King	10	
+Laura	Callahan	13	
+Anne	Dodsworth	13	

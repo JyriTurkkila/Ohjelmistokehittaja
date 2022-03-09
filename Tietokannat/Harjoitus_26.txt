@@ -1,0 +1,14 @@
+127.0.0.1/northwind/products/		http://localhost/phpmyadmin/index.php?route=/database/sql&db=northwind
+
+   Näytetään rivit 0– 4 (5 tulos, Kysely kesti 0,0043 sekuntia.)
+
+
+SELECT ProductName FROM northwind.products WHERE SupplierID IN (SELECT SupplierID FROM northwind.suppliers WHERE CompanyName = 'Pavlova, Ltd.');
+
+
+ProductName	
+Pavlova	
+Alice Mutton	
+Carnarvon Tigers	
+Vegie-spread	
+Outback Lager	

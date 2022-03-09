@@ -1,0 +1,22 @@
+127.0.0.1/northwind/customers/		http://localhost/phpmyadmin/index.php?route=/database/sql&db=northwind
+
+   Näytetään rivit 0–12 (13 tulos, Kysely kesti 0,0015 sekuntia.)
+
+
+SELECT DISTINCT(ContactTitle) FROM northwind.customers;
+
+
+ContactTitle	
+Sales Representative	
+Owner	
+Order Administrator	
+Marketing Manager	
+Accounting Manager	
+Sales Agent	
+Sales Associate	
+Sales Manager	
+Marketing Assistant	
+Assistant Sales Agent	
+Assistant Sales Representative	
+IT	
+Owner/Marketing Assistant	

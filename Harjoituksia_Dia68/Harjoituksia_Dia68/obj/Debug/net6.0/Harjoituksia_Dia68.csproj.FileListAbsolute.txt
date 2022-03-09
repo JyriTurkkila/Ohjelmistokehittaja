@@ -1,0 +1,15 @@
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia68\Harjoituksia_Dia68\bin\Debug\net6.0\Harjoituksia_Dia68.exe
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia68\Harjoituksia_Dia68\bin\Debug\net6.0\Harjoituksia_Dia68.deps.json
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia68\Harjoituksia_Dia68\bin\Debug\net6.0\Harjoituksia_Dia68.runtimeconfig.json
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia68\Harjoituksia_Dia68\bin\Debug\net6.0\Harjoituksia_Dia68.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia68\Harjoituksia_Dia68\bin\Debug\net6.0\Harjoituksia_Dia68.pdb
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia68\Harjoituksia_Dia68\obj\Debug\net6.0\Harjoituksia_Dia68.csproj.AssemblyReference.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia68\Harjoituksia_Dia68\obj\Debug\net6.0\Harjoituksia_Dia68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia68\Harjoituksia_Dia68\obj\Debug\net6.0\Harjoituksia_Dia68.AssemblyInfoInputs.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia68\Harjoituksia_Dia68\obj\Debug\net6.0\Harjoituksia_Dia68.AssemblyInfo.cs
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia68\Harjoituksia_Dia68\obj\Debug\net6.0\Harjoituksia_Dia68.csproj.CoreCompileInputs.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia68\Harjoituksia_Dia68\obj\Debug\net6.0\Harjoituksia_Dia68.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia68\Harjoituksia_Dia68\obj\Debug\net6.0\refint\Harjoituksia_Dia68.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia68\Harjoituksia_Dia68\obj\Debug\net6.0\Harjoituksia_Dia68.pdb
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia68\Harjoituksia_Dia68\obj\Debug\net6.0\Harjoituksia_Dia68.genruntimeconfig.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoituksia_Dia68\Harjoituksia_Dia68\obj\Debug\net6.0\ref\Harjoituksia_Dia68.dll

@@ -1,0 +1,35 @@
+Select-harjoituksia
+Tehtäviä
+ 
+
+Etsi hr-tietokannan employees-taulukosta pelkästään etu- ja sukunimet
+Etsi northwind-tietokannasta customers-taulukosta ainutkertaiset tiedot asiakkaiden titteleistä
+Etsi hr-tietokannan employees-taulukosta kaikki tiedot ja järjestä ne sukunimen mukaan nousevaan aakkosjärjestykseen
+Etsi hr-tietokannan employees-taulukosta etunimet, sukunimet, palkka, sekä laske 15% bonus palkkaan ja anna kentälle nimeksi bonus
+Etsi hr-tietokannan employees-taulukosta etunimet, sukunimet, palkka, sekä laske, paljonko kukin saa komissiota palkkansa päälle, mikäli tavoitteet saavutetaan ja järjestä vastaus palkan mukaan laskevaan järjestykseen
+Etsi northwind-tietokannan employees-taulukosta, paljonko työntekijöille täytyy maksaa yhteensä palkkaa. Pyöristä summa kahteen desimaaliin.
+Etsi northwind-tietokannan employees-taulukosta, suurin ja pienin palkka.
+Etsi northwind-tietokannan employees-taulukosta, paljonko on kuukausittainen keskipalkka?
+Etsi hr-tietokannan employees-taulukosta, kuinka moni saa alle 2400 euron palkkaa?
+Etsi hr-tietokannan employees-taulukosta, kuinka moni saa yli 20000 euron palkkaa?
+10
+
+Etsi hr-tietokannan employees-taulukosta, kuinka moni saa palkkaa välillä 5000 – 8000 euroa? (Huomaa ääriarvot!)
+Etsi hr-tietokannan employees-taulukosta, kuinka monta tietuetta siellä on, eli esim. kuinka monta etunimeä siellä on?
+VAIKEA! Käytä Distinct ja Count -funktioita ja etsi hr-tietokannan employees-taulukosta, kuinka monta erilaista etunimeä sieltä löytyy?
+Etsi northwind-tietokannan employees-taulukosta etu- ja sukunimet ja tulosta ne isoilla kirjaimilla.
+Tee northwind-tietokannan employees-taulukosta käyttäjänimi, joka koostuu sukunimen 5:stä ensimmäisestä kirjaimesta, johon lisätään etunimen 3 ensimmäistä kirjainta. Kentän nimi on UserName.
+Laske, paljonko tekee 12 * 12 * 12
+Etsi northwind-tietokannan employees-taulukosta etu- ja sukunimet ja tulosta ne yhdeksi sarakkeeksi välilyönnillä erotettuna, esimerkiksi näin: John Smith
+Etsi hr-tietokannan employees-taulukosta etu- ja sukunimien pituudet ja laske ne yhteen.
+Et northwind-tietokannan employees-taulukosta sellaiset henkilöt, joiden sukunimessä on mikä tahansa kirjain välillä v-z
+Valitse northwind-tietokannan product-taulukosta tuotteen nimi ja kuinka paljon tuotetta on varastossa ja tulosta 50 ensimmäistä riviä näkyviin
+20
+
+Etsi kaikki Northwindin asiakkaat nimineen ja yrityksineen, jotka sijaitsevat Buenos Aires:ssa.
+Etsi kaikki Northwindin tuotteet hintoineen ja määrineen, jotka ovat loppu varastosta
+Luo raportti niistä Northwindin työntekijöistä, jotka eivät ole USA:laisia
+Haluat lähettää faksin kaikille Northwindin asiakkaille, joilla on faksi. Tee sellainen luettelo.
+Etsi Northwindin tuotteet, jotka ovat halvempia kuin ”Aniseed Syrup”.
+Etsi Northwindin tuotteet, joita tuottaa ”Pavlova, Ltd.”.
+Etsi Northwindin tuotteet, jotka ovat lihaa tai kalaa

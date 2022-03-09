@@ -1,0 +1,21 @@
+127.0.0.1/northwind/products/		http://localhost/phpmyadmin/index.php?route=/database/sql&db=northwind
+
+   Näytetään rivit 0–11 (12 tulos, Kysely kesti 0,0031 sekuntia.)
+
+
+SELECT ProductName FROM northwind.products WHERE CategoryID IN (SELECT CategoryID FROM northwind.categories WHERE CategoryName = 'MEAT/POYLTRY' OR CategoryName = 'Seafood');
+
+
+ProductName	
+Ikura	
+Konbu	
+Carnarvon Tigers	
+Nord-Ost Matjeshering	
+Inlagd Sill	
+Gravad lax	
+Boston Crab Meat	
+Jack's New England Clam Chowder	
+Rogede sild	
+Spegesild	
+Escargots de Bourgogne	
+Rd Kaviar	

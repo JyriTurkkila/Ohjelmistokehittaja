@@ -1,0 +1,8 @@
+127.0.0.1/hr/employees/		http://localhost/phpmyadmin/index.php?route=/database/sql&db=hr
+SQL-kyselysi on suoritettu onnistuneesti.
+
+SELECT COUNT(last_name) FROM hr.employees WHERE salary >= 5000 AND salary <=8000;
+
+
+
+25	

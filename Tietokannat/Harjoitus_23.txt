@@ -1,0 +1,13 @@
+127.0.0.1/northwind/employees/		http://localhost/phpmyadmin/index.php?route=/database/sql&db=northwind
+
+   Näytetään rivit 0– 3 (4 tulos, Kysely kesti 0,0029 sekuntia.)
+
+
+SELECT FirstName, LastName, Country FROM northwind.employees WHERE Country <> 'USA';
+
+
+FirstName	LastName	Country	
+Steven	Buchanan	UK	
+Michael	Suyama	UK	
+Robert	King	UK	
+Anne	Dodsworth	UK	

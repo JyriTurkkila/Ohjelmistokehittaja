@@ -1,0 +1,14 @@
+127.0.0.1/northwind/products/		http://localhost/phpmyadmin/index.php?route=/database/sql&db=northwind
+
+   Näytetään rivit 0– 4 (5 tulos, Kysely kesti 0,0014 sekuntia.)
+
+
+SELECT ProductName, UnitPrice, UnitsInStock FROM northwind.products WHERE UnitsInStock = 0;
+
+
+ProductName	UnitPrice	UnitsInStock	
+Chef Anton's Gumbo Mix	21.3500	0	
+Alice Mutton	39.0000	0	
+Thringer Rostbratwurst	123.7900	0	
+Gorgonzola Telino	12.5000	0	
+Perth Pasties	32.8000	0	

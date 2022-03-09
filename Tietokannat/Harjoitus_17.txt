@@ -1,0 +1,18 @@
+127.0.0.1/northwind/employees/		http://localhost/phpmyadmin/index.php?route=/database/sql&db=northwind
+
+   Näytetään rivit 0– 8 (9 tulos, Kysely kesti 0,0014 sekuntia.)
+
+
+SELECT CONCAT(firstName, ' ', lastName) AS kokonimi FROM northwind.employees;
+
+
+kokonimi	
+Nancy Davolio	
+Andrew Fuller	
+Janet Leverling	
+Margaret Peacock	
+Steven Buchanan	
+Michael Suyama	
+Robert King	
+Laura Callahan	
+Anne Dodsworth	
