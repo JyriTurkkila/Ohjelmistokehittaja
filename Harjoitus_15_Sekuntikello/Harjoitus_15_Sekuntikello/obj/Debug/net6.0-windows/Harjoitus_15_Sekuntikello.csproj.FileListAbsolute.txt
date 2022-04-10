@@ -1,0 +1,17 @@
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_15_Sekuntikello\Harjoitus_15_Sekuntikello\bin\Debug\net6.0-windows\Harjoitus_15_Sekuntikello.exe
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_15_Sekuntikello\Harjoitus_15_Sekuntikello\bin\Debug\net6.0-windows\Harjoitus_15_Sekuntikello.deps.json
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_15_Sekuntikello\Harjoitus_15_Sekuntikello\bin\Debug\net6.0-windows\Harjoitus_15_Sekuntikello.runtimeconfig.json
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_15_Sekuntikello\Harjoitus_15_Sekuntikello\bin\Debug\net6.0-windows\Harjoitus_15_Sekuntikello.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_15_Sekuntikello\Harjoitus_15_Sekuntikello\bin\Debug\net6.0-windows\Harjoitus_15_Sekuntikello.pdb
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_15_Sekuntikello\Harjoitus_15_Sekuntikello\obj\Debug\net6.0-windows\Harjoitus_15_Sekuntikello.csproj.AssemblyReference.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_15_Sekuntikello\Harjoitus_15_Sekuntikello\obj\Debug\net6.0-windows\Harjoitus_15_Sekuntikello.SekkariForm.resources
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_15_Sekuntikello\Harjoitus_15_Sekuntikello\obj\Debug\net6.0-windows\Harjoitus_15_Sekuntikello.csproj.GenerateResource.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_15_Sekuntikello\Harjoitus_15_Sekuntikello\obj\Debug\net6.0-windows\Harjoitus_15_Sekuntikello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_15_Sekuntikello\Harjoitus_15_Sekuntikello\obj\Debug\net6.0-windows\Harjoitus_15_Sekuntikello.AssemblyInfoInputs.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_15_Sekuntikello\Harjoitus_15_Sekuntikello\obj\Debug\net6.0-windows\Harjoitus_15_Sekuntikello.AssemblyInfo.cs
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_15_Sekuntikello\Harjoitus_15_Sekuntikello\obj\Debug\net6.0-windows\Harjoitus_15_Sekuntikello.csproj.CoreCompileInputs.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_15_Sekuntikello\Harjoitus_15_Sekuntikello\obj\Debug\net6.0-windows\Harjoitus_15_Sekuntikello.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_15_Sekuntikello\Harjoitus_15_Sekuntikello\obj\Debug\net6.0-windows\refint\Harjoitus_15_Sekuntikello.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_15_Sekuntikello\Harjoitus_15_Sekuntikello\obj\Debug\net6.0-windows\Harjoitus_15_Sekuntikello.pdb
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_15_Sekuntikello\Harjoitus_15_Sekuntikello\obj\Debug\net6.0-windows\Harjoitus_15_Sekuntikello.genruntimeconfig.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_15_Sekuntikello\Harjoitus_15_Sekuntikello\obj\Debug\net6.0-windows\ref\Harjoitus_15_Sekuntikello.dll

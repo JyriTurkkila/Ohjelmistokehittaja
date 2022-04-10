@@ -1,0 +1,17 @@
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_16_Ajastin\Harjoitus_16_Ajastin\obj\Debug\net6.0-windows\Harjoitus_16_Ajastin.csproj.AssemblyReference.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_16_Ajastin\Harjoitus_16_Ajastin\obj\Debug\net6.0-windows\Harjoitus_16_Ajastin.AjastinForm.resources
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_16_Ajastin\Harjoitus_16_Ajastin\obj\Debug\net6.0-windows\Harjoitus_16_Ajastin.csproj.GenerateResource.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_16_Ajastin\Harjoitus_16_Ajastin\obj\Debug\net6.0-windows\Harjoitus_16_Ajastin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_16_Ajastin\Harjoitus_16_Ajastin\obj\Debug\net6.0-windows\Harjoitus_16_Ajastin.AssemblyInfoInputs.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_16_Ajastin\Harjoitus_16_Ajastin\obj\Debug\net6.0-windows\Harjoitus_16_Ajastin.AssemblyInfo.cs
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_16_Ajastin\Harjoitus_16_Ajastin\obj\Debug\net6.0-windows\Harjoitus_16_Ajastin.csproj.CoreCompileInputs.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_16_Ajastin\Harjoitus_16_Ajastin\bin\Debug\net6.0-windows\Harjoitus_16_Ajastin.exe
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_16_Ajastin\Harjoitus_16_Ajastin\bin\Debug\net6.0-windows\Harjoitus_16_Ajastin.deps.json
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_16_Ajastin\Harjoitus_16_Ajastin\bin\Debug\net6.0-windows\Harjoitus_16_Ajastin.runtimeconfig.json
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_16_Ajastin\Harjoitus_16_Ajastin\bin\Debug\net6.0-windows\Harjoitus_16_Ajastin.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_16_Ajastin\Harjoitus_16_Ajastin\bin\Debug\net6.0-windows\Harjoitus_16_Ajastin.pdb
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_16_Ajastin\Harjoitus_16_Ajastin\obj\Debug\net6.0-windows\Harjoitus_16_Ajastin.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_16_Ajastin\Harjoitus_16_Ajastin\obj\Debug\net6.0-windows\refint\Harjoitus_16_Ajastin.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_16_Ajastin\Harjoitus_16_Ajastin\obj\Debug\net6.0-windows\Harjoitus_16_Ajastin.pdb
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_16_Ajastin\Harjoitus_16_Ajastin\obj\Debug\net6.0-windows\Harjoitus_16_Ajastin.genruntimeconfig.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_16_Ajastin\Harjoitus_16_Ajastin\obj\Debug\net6.0-windows\ref\Harjoitus_16_Ajastin.dll

@@ -1,0 +1,17 @@
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_14_Paivakirja\Harjoitus_14_Paivakirja\bin\Debug\net6.0-windows\Harjoitus_14_Paivakirja.exe
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_14_Paivakirja\Harjoitus_14_Paivakirja\bin\Debug\net6.0-windows\Harjoitus_14_Paivakirja.deps.json
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_14_Paivakirja\Harjoitus_14_Paivakirja\bin\Debug\net6.0-windows\Harjoitus_14_Paivakirja.runtimeconfig.json
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_14_Paivakirja\Harjoitus_14_Paivakirja\bin\Debug\net6.0-windows\Harjoitus_14_Paivakirja.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_14_Paivakirja\Harjoitus_14_Paivakirja\bin\Debug\net6.0-windows\Harjoitus_14_Paivakirja.pdb
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_14_Paivakirja\Harjoitus_14_Paivakirja\obj\Debug\net6.0-windows\Harjoitus_14_Paivakirja.csproj.AssemblyReference.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_14_Paivakirja\Harjoitus_14_Paivakirja\obj\Debug\net6.0-windows\Harjoitus_14_Paivakirja.DiaryForm.resources
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_14_Paivakirja\Harjoitus_14_Paivakirja\obj\Debug\net6.0-windows\Harjoitus_14_Paivakirja.csproj.GenerateResource.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_14_Paivakirja\Harjoitus_14_Paivakirja\obj\Debug\net6.0-windows\Harjoitus_14_Paivakirja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_14_Paivakirja\Harjoitus_14_Paivakirja\obj\Debug\net6.0-windows\Harjoitus_14_Paivakirja.AssemblyInfoInputs.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_14_Paivakirja\Harjoitus_14_Paivakirja\obj\Debug\net6.0-windows\Harjoitus_14_Paivakirja.AssemblyInfo.cs
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_14_Paivakirja\Harjoitus_14_Paivakirja\obj\Debug\net6.0-windows\Harjoitus_14_Paivakirja.csproj.CoreCompileInputs.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_14_Paivakirja\Harjoitus_14_Paivakirja\obj\Debug\net6.0-windows\Harjoitus_14_Paivakirja.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_14_Paivakirja\Harjoitus_14_Paivakirja\obj\Debug\net6.0-windows\refint\Harjoitus_14_Paivakirja.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_14_Paivakirja\Harjoitus_14_Paivakirja\obj\Debug\net6.0-windows\Harjoitus_14_Paivakirja.pdb
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_14_Paivakirja\Harjoitus_14_Paivakirja\obj\Debug\net6.0-windows\Harjoitus_14_Paivakirja.genruntimeconfig.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_14_Paivakirja\Harjoitus_14_Paivakirja\obj\Debug\net6.0-windows\ref\Harjoitus_14_Paivakirja.dll

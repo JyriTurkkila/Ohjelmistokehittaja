@@ -1,0 +1,17 @@
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_07_Autokululaskuri\Harjoitus_07_Autokululaskuri\obj\Debug\net6.0-windows\Harjoitus_07_Autokululaskuri.csproj.AssemblyReference.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_07_Autokululaskuri\Harjoitus_07_Autokululaskuri\obj\Debug\net6.0-windows\Harjoitus_07_Autokululaskuri.Form1.resources
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_07_Autokululaskuri\Harjoitus_07_Autokululaskuri\obj\Debug\net6.0-windows\Harjoitus_07_Autokululaskuri.csproj.GenerateResource.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_07_Autokululaskuri\Harjoitus_07_Autokululaskuri\obj\Debug\net6.0-windows\Harjoitus_07_Autokululaskuri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_07_Autokululaskuri\Harjoitus_07_Autokululaskuri\obj\Debug\net6.0-windows\Harjoitus_07_Autokululaskuri.AssemblyInfoInputs.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_07_Autokululaskuri\Harjoitus_07_Autokululaskuri\obj\Debug\net6.0-windows\Harjoitus_07_Autokululaskuri.AssemblyInfo.cs
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_07_Autokululaskuri\Harjoitus_07_Autokululaskuri\obj\Debug\net6.0-windows\Harjoitus_07_Autokululaskuri.csproj.CoreCompileInputs.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_07_Autokululaskuri\Harjoitus_07_Autokululaskuri\bin\Debug\net6.0-windows\Harjoitus_07_Autokululaskuri.exe
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_07_Autokululaskuri\Harjoitus_07_Autokululaskuri\bin\Debug\net6.0-windows\Harjoitus_07_Autokululaskuri.deps.json
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_07_Autokululaskuri\Harjoitus_07_Autokululaskuri\bin\Debug\net6.0-windows\Harjoitus_07_Autokululaskuri.runtimeconfig.json
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_07_Autokululaskuri\Harjoitus_07_Autokululaskuri\bin\Debug\net6.0-windows\Harjoitus_07_Autokululaskuri.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_07_Autokululaskuri\Harjoitus_07_Autokululaskuri\bin\Debug\net6.0-windows\Harjoitus_07_Autokululaskuri.pdb
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_07_Autokululaskuri\Harjoitus_07_Autokululaskuri\obj\Debug\net6.0-windows\Harjoitus_07_Autokululaskuri.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_07_Autokululaskuri\Harjoitus_07_Autokululaskuri\obj\Debug\net6.0-windows\refint\Harjoitus_07_Autokululaskuri.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_07_Autokululaskuri\Harjoitus_07_Autokululaskuri\obj\Debug\net6.0-windows\Harjoitus_07_Autokululaskuri.pdb
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_07_Autokululaskuri\Harjoitus_07_Autokululaskuri\obj\Debug\net6.0-windows\Harjoitus_07_Autokululaskuri.genruntimeconfig.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_07_Autokululaskuri\Harjoitus_07_Autokululaskuri\obj\Debug\net6.0-windows\ref\Harjoitus_07_Autokululaskuri.dll

@@ -1,0 +1,17 @@
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_10_BMI-laskuri\Harjoitus_10_BMI-laskuri\obj\Debug\net6.0-windows\Harjoitus_10_BMI-laskuri.csproj.AssemblyReference.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_10_BMI-laskuri\Harjoitus_10_BMI-laskuri\obj\Debug\net6.0-windows\Harjoitus_10_BMI_laskuri.Form1.resources
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_10_BMI-laskuri\Harjoitus_10_BMI-laskuri\obj\Debug\net6.0-windows\Harjoitus_10_BMI-laskuri.csproj.GenerateResource.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_10_BMI-laskuri\Harjoitus_10_BMI-laskuri\obj\Debug\net6.0-windows\Harjoitus_10_BMI-laskuri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_10_BMI-laskuri\Harjoitus_10_BMI-laskuri\obj\Debug\net6.0-windows\Harjoitus_10_BMI-laskuri.AssemblyInfoInputs.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_10_BMI-laskuri\Harjoitus_10_BMI-laskuri\obj\Debug\net6.0-windows\Harjoitus_10_BMI-laskuri.AssemblyInfo.cs
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_10_BMI-laskuri\Harjoitus_10_BMI-laskuri\obj\Debug\net6.0-windows\Harjoitus_10_BMI-laskuri.csproj.CoreCompileInputs.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_10_BMI-laskuri\Harjoitus_10_BMI-laskuri\bin\Debug\net6.0-windows\Harjoitus_10_BMI-laskuri.exe
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_10_BMI-laskuri\Harjoitus_10_BMI-laskuri\bin\Debug\net6.0-windows\Harjoitus_10_BMI-laskuri.deps.json
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_10_BMI-laskuri\Harjoitus_10_BMI-laskuri\bin\Debug\net6.0-windows\Harjoitus_10_BMI-laskuri.runtimeconfig.json
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_10_BMI-laskuri\Harjoitus_10_BMI-laskuri\bin\Debug\net6.0-windows\Harjoitus_10_BMI-laskuri.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_10_BMI-laskuri\Harjoitus_10_BMI-laskuri\bin\Debug\net6.0-windows\Harjoitus_10_BMI-laskuri.pdb
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_10_BMI-laskuri\Harjoitus_10_BMI-laskuri\obj\Debug\net6.0-windows\Harjoitus_10_BMI-laskuri.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_10_BMI-laskuri\Harjoitus_10_BMI-laskuri\obj\Debug\net6.0-windows\refint\Harjoitus_10_BMI-laskuri.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_10_BMI-laskuri\Harjoitus_10_BMI-laskuri\obj\Debug\net6.0-windows\Harjoitus_10_BMI-laskuri.pdb
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_10_BMI-laskuri\Harjoitus_10_BMI-laskuri\obj\Debug\net6.0-windows\Harjoitus_10_BMI-laskuri.genruntimeconfig.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_10_BMI-laskuri\Harjoitus_10_BMI-laskuri\obj\Debug\net6.0-windows\ref\Harjoitus_10_BMI-laskuri.dll

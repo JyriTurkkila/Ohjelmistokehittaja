@@ -1,0 +1,17 @@
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_02\Harjoitus_02\bin\Debug\net6.0-windows\Harjoitus_02.exe
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_02\Harjoitus_02\bin\Debug\net6.0-windows\Harjoitus_02.deps.json
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_02\Harjoitus_02\bin\Debug\net6.0-windows\Harjoitus_02.runtimeconfig.json
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_02\Harjoitus_02\bin\Debug\net6.0-windows\Harjoitus_02.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_02\Harjoitus_02\bin\Debug\net6.0-windows\Harjoitus_02.pdb
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_02\Harjoitus_02\obj\Debug\net6.0-windows\Harjoitus_02.csproj.AssemblyReference.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_02\Harjoitus_02\obj\Debug\net6.0-windows\Harjoitus_02.Form1.resources
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_02\Harjoitus_02\obj\Debug\net6.0-windows\Harjoitus_02.csproj.GenerateResource.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_02\Harjoitus_02\obj\Debug\net6.0-windows\Harjoitus_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_02\Harjoitus_02\obj\Debug\net6.0-windows\Harjoitus_02.AssemblyInfoInputs.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_02\Harjoitus_02\obj\Debug\net6.0-windows\Harjoitus_02.AssemblyInfo.cs
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_02\Harjoitus_02\obj\Debug\net6.0-windows\Harjoitus_02.csproj.CoreCompileInputs.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_02\Harjoitus_02\obj\Debug\net6.0-windows\Harjoitus_02.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_02\Harjoitus_02\obj\Debug\net6.0-windows\refint\Harjoitus_02.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_02\Harjoitus_02\obj\Debug\net6.0-windows\Harjoitus_02.pdb
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_02\Harjoitus_02\obj\Debug\net6.0-windows\Harjoitus_02.genruntimeconfig.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_02\Harjoitus_02\obj\Debug\net6.0-windows\ref\Harjoitus_02.dll

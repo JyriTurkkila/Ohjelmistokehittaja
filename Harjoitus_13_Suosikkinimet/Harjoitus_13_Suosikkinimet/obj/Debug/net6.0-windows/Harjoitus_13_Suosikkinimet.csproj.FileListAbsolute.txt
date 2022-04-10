@@ -1,0 +1,17 @@
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_13_Suosikkinimet\Harjoitus_13_Suosikkinimet\obj\Debug\net6.0-windows\Harjoitus_13_Suosikkinimet.csproj.AssemblyReference.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_13_Suosikkinimet\Harjoitus_13_Suosikkinimet\obj\Debug\net6.0-windows\Harjoitus_13_Suosikkinimet.Form1.resources
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_13_Suosikkinimet\Harjoitus_13_Suosikkinimet\obj\Debug\net6.0-windows\Harjoitus_13_Suosikkinimet.csproj.GenerateResource.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_13_Suosikkinimet\Harjoitus_13_Suosikkinimet\obj\Debug\net6.0-windows\Harjoitus_13_Suosikkinimet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_13_Suosikkinimet\Harjoitus_13_Suosikkinimet\obj\Debug\net6.0-windows\Harjoitus_13_Suosikkinimet.AssemblyInfoInputs.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_13_Suosikkinimet\Harjoitus_13_Suosikkinimet\obj\Debug\net6.0-windows\Harjoitus_13_Suosikkinimet.AssemblyInfo.cs
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_13_Suosikkinimet\Harjoitus_13_Suosikkinimet\obj\Debug\net6.0-windows\Harjoitus_13_Suosikkinimet.csproj.CoreCompileInputs.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_13_Suosikkinimet\Harjoitus_13_Suosikkinimet\bin\Debug\net6.0-windows\Harjoitus_13_Suosikkinimet.exe
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_13_Suosikkinimet\Harjoitus_13_Suosikkinimet\bin\Debug\net6.0-windows\Harjoitus_13_Suosikkinimet.deps.json
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_13_Suosikkinimet\Harjoitus_13_Suosikkinimet\bin\Debug\net6.0-windows\Harjoitus_13_Suosikkinimet.runtimeconfig.json
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_13_Suosikkinimet\Harjoitus_13_Suosikkinimet\bin\Debug\net6.0-windows\Harjoitus_13_Suosikkinimet.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_13_Suosikkinimet\Harjoitus_13_Suosikkinimet\bin\Debug\net6.0-windows\Harjoitus_13_Suosikkinimet.pdb
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_13_Suosikkinimet\Harjoitus_13_Suosikkinimet\obj\Debug\net6.0-windows\Harjoitus_13_Suosikkinimet.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_13_Suosikkinimet\Harjoitus_13_Suosikkinimet\obj\Debug\net6.0-windows\refint\Harjoitus_13_Suosikkinimet.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_13_Suosikkinimet\Harjoitus_13_Suosikkinimet\obj\Debug\net6.0-windows\Harjoitus_13_Suosikkinimet.pdb
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_13_Suosikkinimet\Harjoitus_13_Suosikkinimet\obj\Debug\net6.0-windows\Harjoitus_13_Suosikkinimet.genruntimeconfig.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_13_Suosikkinimet\Harjoitus_13_Suosikkinimet\obj\Debug\net6.0-windows\ref\Harjoitus_13_Suosikkinimet.dll

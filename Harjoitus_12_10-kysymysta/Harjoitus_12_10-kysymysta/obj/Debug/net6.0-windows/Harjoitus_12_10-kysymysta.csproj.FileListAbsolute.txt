@@ -1,0 +1,17 @@
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_12_10-kysymysta\Harjoitus_12_10-kysymysta\obj\Debug\net6.0-windows\Harjoitus_12_10-kysymysta.csproj.AssemblyReference.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_12_10-kysymysta\Harjoitus_12_10-kysymysta\obj\Debug\net6.0-windows\Harjoitus_12_10_kysymysta.Form1.resources
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_12_10-kysymysta\Harjoitus_12_10-kysymysta\obj\Debug\net6.0-windows\Harjoitus_12_10-kysymysta.csproj.GenerateResource.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_12_10-kysymysta\Harjoitus_12_10-kysymysta\obj\Debug\net6.0-windows\Harjoitus_12_10-kysymysta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_12_10-kysymysta\Harjoitus_12_10-kysymysta\obj\Debug\net6.0-windows\Harjoitus_12_10-kysymysta.AssemblyInfoInputs.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_12_10-kysymysta\Harjoitus_12_10-kysymysta\obj\Debug\net6.0-windows\Harjoitus_12_10-kysymysta.AssemblyInfo.cs
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_12_10-kysymysta\Harjoitus_12_10-kysymysta\obj\Debug\net6.0-windows\Harjoitus_12_10-kysymysta.csproj.CoreCompileInputs.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_12_10-kysymysta\Harjoitus_12_10-kysymysta\bin\Debug\net6.0-windows\Harjoitus_12_10-kysymysta.exe
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_12_10-kysymysta\Harjoitus_12_10-kysymysta\bin\Debug\net6.0-windows\Harjoitus_12_10-kysymysta.deps.json
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_12_10-kysymysta\Harjoitus_12_10-kysymysta\bin\Debug\net6.0-windows\Harjoitus_12_10-kysymysta.runtimeconfig.json
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_12_10-kysymysta\Harjoitus_12_10-kysymysta\bin\Debug\net6.0-windows\Harjoitus_12_10-kysymysta.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_12_10-kysymysta\Harjoitus_12_10-kysymysta\bin\Debug\net6.0-windows\Harjoitus_12_10-kysymysta.pdb
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_12_10-kysymysta\Harjoitus_12_10-kysymysta\obj\Debug\net6.0-windows\Harjoitus_12_10-kysymysta.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_12_10-kysymysta\Harjoitus_12_10-kysymysta\obj\Debug\net6.0-windows\refint\Harjoitus_12_10-kysymysta.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_12_10-kysymysta\Harjoitus_12_10-kysymysta\obj\Debug\net6.0-windows\Harjoitus_12_10-kysymysta.pdb
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_12_10-kysymysta\Harjoitus_12_10-kysymysta\obj\Debug\net6.0-windows\Harjoitus_12_10-kysymysta.genruntimeconfig.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_12_10-kysymysta\Harjoitus_12_10-kysymysta\obj\Debug\net6.0-windows\ref\Harjoitus_12_10-kysymysta.dll

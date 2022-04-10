@@ -1,0 +1,17 @@
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_04_ikalaskuri\Harjoitus_04_ikalaskuri\obj\Debug\net6.0-windows\Harjoitus_04_ikalaskuri.csproj.AssemblyReference.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_04_ikalaskuri\Harjoitus_04_ikalaskuri\obj\Debug\net6.0-windows\Harjoitus_04_ikalaskuri.Form1.resources
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_04_ikalaskuri\Harjoitus_04_ikalaskuri\obj\Debug\net6.0-windows\Harjoitus_04_ikalaskuri.csproj.GenerateResource.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_04_ikalaskuri\Harjoitus_04_ikalaskuri\obj\Debug\net6.0-windows\Harjoitus_04_ikalaskuri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_04_ikalaskuri\Harjoitus_04_ikalaskuri\obj\Debug\net6.0-windows\Harjoitus_04_ikalaskuri.AssemblyInfoInputs.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_04_ikalaskuri\Harjoitus_04_ikalaskuri\obj\Debug\net6.0-windows\Harjoitus_04_ikalaskuri.AssemblyInfo.cs
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_04_ikalaskuri\Harjoitus_04_ikalaskuri\obj\Debug\net6.0-windows\Harjoitus_04_ikalaskuri.csproj.CoreCompileInputs.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_04_ikalaskuri\Harjoitus_04_ikalaskuri\bin\Debug\net6.0-windows\Harjoitus_04_ikalaskuri.exe
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_04_ikalaskuri\Harjoitus_04_ikalaskuri\bin\Debug\net6.0-windows\Harjoitus_04_ikalaskuri.deps.json
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_04_ikalaskuri\Harjoitus_04_ikalaskuri\bin\Debug\net6.0-windows\Harjoitus_04_ikalaskuri.runtimeconfig.json
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_04_ikalaskuri\Harjoitus_04_ikalaskuri\bin\Debug\net6.0-windows\Harjoitus_04_ikalaskuri.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_04_ikalaskuri\Harjoitus_04_ikalaskuri\bin\Debug\net6.0-windows\Harjoitus_04_ikalaskuri.pdb
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_04_ikalaskuri\Harjoitus_04_ikalaskuri\obj\Debug\net6.0-windows\Harjoitus_04_ikalaskuri.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_04_ikalaskuri\Harjoitus_04_ikalaskuri\obj\Debug\net6.0-windows\refint\Harjoitus_04_ikalaskuri.dll
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_04_ikalaskuri\Harjoitus_04_ikalaskuri\obj\Debug\net6.0-windows\Harjoitus_04_ikalaskuri.pdb
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_04_ikalaskuri\Harjoitus_04_ikalaskuri\obj\Debug\net6.0-windows\Harjoitus_04_ikalaskuri.genruntimeconfig.cache
+C:\Users\jyrit\source\Ohjelmistokehittaja\Harjoitus_04_ikalaskuri\Harjoitus_04_ikalaskuri\obj\Debug\net6.0-windows\ref\Harjoitus_04_ikalaskuri.dll
